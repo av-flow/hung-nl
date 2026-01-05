@@ -15,10 +15,10 @@ export default function AboutPage() {
             <AvatarFallback>IA</AvatarFallback>
         </Avatar>
         <h1 className="font-headline text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
-            Về Nhiếp ảnh gia Nguyễn Long Hưng
+            Về Giảng viên của bạn
         </h1>
         <p className="mx-auto mt-6 max-w-[700px] text-lg text-foreground/80 md:text-xl">
-            Chào bạn, tôi là một người quan sát thế giới qua ống kính và ghi lại những cảm xúc chân thực nhất.
+            Với niềm đam mê sâu sắc dành cho nghệ thuật nhiếp ảnh và cam kết mang lại giá trị bền vững, Nguyễn Long Hưng đã dành hơn một thập kỷ làm đạo diễn, nhiếp ảnh gia, giảng viên nhiếp ảnh để đồng hành cùng các học viên cá nhân và tổ chức trong việc khám phá ngôn ngữ hình ảnh, kể chuyện bằng ánh sáng và thực thi các dự án sáng tạo nội dung số chuyên nghiệp.
         </p>
       </div>
       <ExperienceTimeline />
