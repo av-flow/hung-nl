@@ -1,4 +1,4 @@
-# **App Name**: DigiClass
+# **App Name**: Digi-AIClass
 
 ## Core Features:
 
