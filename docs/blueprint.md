@@ -1,4 +1,4 @@
-# **App Name**: FinanceFlow Portfolio
+# **App Name**: DigiClass
 
 ## Core Features:
 
