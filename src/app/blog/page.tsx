@@ -26,10 +26,10 @@ export default function BlogPage() {
     <div className="container mx-auto max-w-5xl py-12 px-4 md:py-20">
       <div className="mb-12 text-center">
         <h1 className="font-headline text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
-          Góc nhìn Chuyên gia
+          Góc nhìn Chuyên gia Nhiếp ảnh
         </h1>
         <p className="mx-auto mt-4 max-w-[700px] text-lg text-foreground/80 md:text-xl">
-          Những bài viết, phân tích và chia sẻ kinh nghiệm về tài chính và đầu tư.
+          Phân tích kể chuyện bằng ánh sáng, nhiếp ảnh du lịch và portfolio smartphone.
         </p>
       </div>
 
