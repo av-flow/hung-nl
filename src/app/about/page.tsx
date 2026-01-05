@@ -2,7 +2,7 @@ import { ExperienceTimeline } from "@/components/about/ExperienceTimeline";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 export const metadata = {
-  title: "Giới thiệu | FinanceFlow Portfolio",
+  title: "Giới thiệu | Sáng tạo nội dung số với Nhiếp ảnh gia Nguyễn Long Hưng",
   description: "Tìm hiểu về chuyên môn, kinh nghiệm và hành trình sự nghiệp của chuyên gia tài chính tại FinanceFlow.",
 };
 
