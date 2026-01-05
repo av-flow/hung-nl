@@ -18,7 +18,7 @@ export default function AboutPage() {
             Về Giảng viên của bạn
         </h1>
         <p className="mx-auto mt-6 max-w-[700px] text-lg text-foreground/80 md:text-xl">
-            Với niềm đam mê sâu sắc dành cho nghệ thuật nhiếp ảnh và cam kết mang lại giá trị bền vững, Nguyễn Long Hưng đã dành hơn một thập kỷ làm đạo diễn, nhiếp ảnh gia, giảng viên nhiếp ảnh để đồng hành cùng các học viên cá nhân và tổ chức trong việc khám phá ngôn ngữ hình ảnh, kể chuyện bằng ánh sáng và thực thi các dự án sáng tạo nội dung số chuyên nghiệp.
+            Với niềm đam mê sâu sắc dành cho nghệ thuật nhiếp ảnh và cam kết mang lại giá trị bền vững, tôi đã dành hơn một thập kỷ làm đạo diễn, nhiếp ảnh gia, giảng viên để đồng hành cùng các học viên cá nhân và tổ chức trong việc khám phá ngôn ngữ hình ảnh, kể chuyện bằng ánh sáng, thực thi các dự án sáng tạo nội dung số chuyên nghiệp.
         </p>
       </div>
       <ExperienceTimeline />
